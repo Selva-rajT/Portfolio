@@ -28,7 +28,8 @@ function wa(){
 }
 function resume(){
 
-   let res=document.getElementById('resume').contentWindow;
+   /*let res=document.getElementById('resume').contentWindow;
    res.focus();
-   res.print();
+   res.print(); */
+    window.open("resume.pdf",'_blank');
 }
