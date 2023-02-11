@@ -24,7 +24,7 @@ function resume(){
     window.open("https://www.canva.com/design/DAFMdr15OKs/M8jDJmWRLnfwUSZdXta1xw/view?utm_content=DAFMdr15OKs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",'-blank');
 }
 function wa(){
-    window.open("https://en.wh.ms/918925344875",'_blank');
+    window.open("https://wa.me/918925344875",'_blank');
 }
 function resume(){
 
